@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pratik
 ===============================================================================================================================
 
-I’m a first-year Computer Science and Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Full-Stack Development. I strongly believe in self learning, most of my skills come from exploring new technologies on my own, building projects, and solving problems outside the classroom.
+I’m a first-year Computer Science and Engineering student with a strong interest in BACKEND Development and Machine Learning. I strongly believe in self learning, most of my skills come from exploring new technologies on my own, building projects, and solving problems outside the classroom.
 
 Currently I am building my Foundation in Python while applying my knowledge through simple projects, which I plan to continuously improve and develop into professional-level work.
 
